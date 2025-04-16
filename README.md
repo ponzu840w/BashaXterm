@@ -1,0 +1,2 @@
+# BashaXterm
+MobaXtermのような高機能sshクライアントをLinuxでかんたんに実現するためのツール群。
